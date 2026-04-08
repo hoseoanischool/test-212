@@ -7,7 +7,8 @@ const SEATS_BY_ROOM = {
 
 // 고정 좌석 설정
 const fixedSeatsByRoom = {
-  "212호": {"1": "유서연",}
+  "212호": {
+    "1": "유서연"
 };
 
 // 야작 금지 인원 설정
